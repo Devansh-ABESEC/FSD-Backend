@@ -1,0 +1,17 @@
+[
+  {
+    "name": "deepak",
+    "email": "a@gamil.com",
+    "password": "123"
+  },
+  {
+    "name": "DEV",
+    "email": "devansh10072007@gmail.com",
+    "password": "dev"
+  },
+  {
+    "name": "Devansh Singh",
+    "email": "abc@gmail.com",
+    "password": "d"
+  }
+]
