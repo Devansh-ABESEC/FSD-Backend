@@ -1,0 +1,10 @@
+.signup-form-wrap .auth-form { margin-top: 25px; }
+.signup-form-wrap .auth-form input { margin-bottom: 15px; }
+.signup-form-wrap .auth-terms { margin-top: 30px; }
+
+@media (max-height: 820px) and (min-width: 761px) {
+  .signup-form-wrap .auth-form { margin-top: 20px; }
+  .signup-form-wrap .auth-form input { height: 43px; margin-bottom: 11px; }
+  .signup-form-wrap .auth-form label { margin-bottom: 6px; }
+  .signup-form-wrap .auth-terms { margin-top: 18px; }
+}
